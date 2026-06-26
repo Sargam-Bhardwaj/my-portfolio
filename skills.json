@@ -1,0 +1,40 @@
+[
+{"name":"Java","icon":"https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"},
+{"name":"Python","icon":"https://img.icons8.com/color/48/python--v1.png"},
+{"name":"JavaScript","icon":"https://img.icons8.com/color/48/javascript--v1.png"},
+
+{"name":"HTML5","icon":"https://img.icons8.com/color/48/html-5--v1.png"},
+{"name":"CSS3","icon":"https://img.icons8.com/color/48/css3.png"},
+{"name":"React.js","icon":"https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"},
+{"name":"Tailwind","icon":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"},
+
+{"name":"Node.js","icon":"https://img.icons8.com/color/48/nodejs.png"},
+{"name":"Flask","icon": "https://img.icons8.com/color/48/flask.png"},
+
+{"name":"FastAPI","icon": "https://img.icons8.com/color/48/api.png"},
+{"name":"REST APIs","icon":"https://img.icons8.com/color/48/api-settings.png"},
+
+{"name":"Gen AI","icon":"https://img.icons8.com/color/48/artificial-intelligence.png"},
+{"name":"Prompt Engg.","icon":"https://img.icons8.com/color/48/chatgpt.png"},
+{"name":"RAG","icon":"https://img.icons8.com/color/48/artificial-intelligence.png"},
+
+{"name":"MongoDB","icon":"https://img.icons8.com/color/48/mongodb.png"},
+{"name":"MySQL","icon":"https://img.icons8.com/color/48/mysql-logo.png"},
+{"name":"Oracle SQL","icon":"https://img.icons8.com/color/48/oracle-logo.png"},
+
+{"name":"Git","icon":"https://img.icons8.com/color/48/git.png"},
+{"name":"GitHub","icon":"https://img.icons8.com/glyph-neue/48/ffffff/github.png"},
+{"name":"VS Code","icon":"https://img.icons8.com/color/48/visual-studio-code-2019.png"},
+{"name":"Postman","icon":"https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"},
+{"name":"Netlify","icon":"https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"},
+{"name":"Vercel","icon":"https://img.icons8.com/ios-filled/50/ffffff/vercel.png"},
+
+{"name":"DSA","icon":"https://img.icons8.com/color/48/source-code.png"},
+{"name":"OOP","icon":"https://img.icons8.com/color/48/class.png"},
+{"name":"DBMS","icon":"https://img.icons8.com/color/48/database.png"},
+{"name":"System Design","icon":"https://img.icons8.com/color/48/system-task.png"},
+{"name":"Networking","icon":"https://img.icons8.com/color/48/network.png"},
+
+{"name":"Problem Solving","icon":"https://img.icons8.com/color/48/idea.png"},
+{"name":"Analytical","icon":"https://img.icons8.com/color/48/mind-map.png"}
+]

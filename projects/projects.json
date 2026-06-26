@@ -1,0 +1,62 @@
+[
+{
+"name": "DecorVista - AI Interior Design Platform",
+"desc": "AI-powered interior design platform enabling real-time 3D room visualization. Built using React.js, Flask, MongoDB and Three.js with optimized rendering and responsive UI.",
+"image": "decor",
+"category": ["ai", "fullstack"],
+"links": {
+"view": "https://drive.google.com/file/d/1v_n7inPCYL2495ujOwmQFl_pNeFtKNkO/view",
+"code": "https://github.com/Sargam-Bhardwaj/Decor-vista"
+}
+},
+{
+  "name": "SkillSync AI Resume Analyzer",
+  "desc": "Developed an AI-based resume analyzer that extracts skills from PDFs and computes a skill match percentage against job-role requirements using NLP-based classification. Delivered automated skill gap analysis with ranked missing skills and personalized learning recommendations to improve job readiness.",
+  "image": "skillsync",
+  "category": ["ai", "fullstack"],
+  "links": {
+    "view": "https://drive.google.com/file/d/1L6a0R1uVKrJhFLLBtiv4ODGX-auPVxho/view",
+    "code": "https://github.com/Sargam-Bhardwaj/SkillSync-AI-Analyzer"
+  }
+},
+{
+"name": "AI Component Generator",
+"desc": "AI-based tool that converts natural language prompts into reusable React components using Gemini API. Features live preview, editable code sandbox and export functionality.",
+"image": "ai",
+"category": ["ai", "frontend"],
+"links": {
+"view": "https://drive.google.com/file/d/1cJN06wiKn6bsC8HIBKeUG1fxrYKkccXh/view",
+"code": "https://github.com/Sargam-Bhardwaj/ai-component-generator"
+}
+},
+{
+"name": "Real Estate Website",
+"desc": "Responsive property listing website built using React.js, HTML, CSS and JavaScript. Designed with reusable UI components and modern frontend principles.",
+"image": "serenity",
+"category": ["frontend"],
+"links": {
+"view": "#",
+"code": "https://github.com/Sargam-Bhardwaj/Real-Estate-Landing-Page"
+}
+},
+{
+  "name": "Library Management System",
+  "desc": "Library Management System to manage book records, user registrations, and issue/return tracking. Built using Python, MySQL, and responsive frontend principles.",
+  "image": "lib",
+  "category": "frontend",
+  "links": {
+    "view": "#",
+    "code": "https://github.com/Sargam-Bhardwaj/Library-Management-System"
+  }
+},
+{
+"name": "Portfolio Website",
+"desc": "Personal portfolio website showcasing projects, technical skills, achievements and professional experience.",
+"image": "protfolio",
+"category": "frontend",
+"links": {
+"view": "#",
+"code": "https://github.com/Sargam-Bhardwaj"
+}
+}
+]
