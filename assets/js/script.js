@@ -61,11 +61,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Sargam Bhardwaj";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/heart.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            document.title = "Visit Again";
+            $("#favicon").attr("href", "assets/images/heart.png");
         }
     });
 
@@ -139,11 +139,12 @@ function showProjects(projects) {
         origin: 'top',
         distance: '80px',
         duration: 1000,
-        reset: false
+        reset: false,
+        cleanup: true
     });
 
     /* SCROLL PROJECTS */
-    srtop.reveal('.work .box', { interval: 200 });
+    srtop.reveal('.work .box', { interval: 200, reset: false });
 
 }
 
